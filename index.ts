@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 const TELEGRAM_BOT_TOKEN: string = "Your bot API TOKEN is here, catch it from @botFather";
 
-=======
-//const TELEGRAM_BOT_TOKEN: string = "Your bot API TOKEN is here, catch it from @botFather";
-const TELEGRAM_BOT_TOKEN: string = "426005210:AAHYnFXgkkEvfn9CaxR0Ko9JrA92ikWE8sU";
->>>>>>> f2f6f3a8d09929dd48f7ef75cab97c023d8f22e2
 import * as Slimbot from "slimbot";
 
 const slimbot: Slimbot = new Slimbot(TELEGRAM_BOT_TOKEN);
